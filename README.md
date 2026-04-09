@@ -3,7 +3,7 @@ ERD and SQL database design for a multi-zone event parking system with zones, le
 
 =========================================================================
 https://app.eraser.io/workspace/KUCJo8e0p5x2XBhLqiG9?origin=share
-=========================================================================
+ 
 
 # Multi-Zone Event Parking System ERD
 
