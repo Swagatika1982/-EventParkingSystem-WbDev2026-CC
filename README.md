@@ -3,7 +3,7 @@ ERD and SQL database design for a multi-zone event parking system with zones, le
 
 
 ==========================================================================================================================
-# - Multi-Zone Event Parking System ERD
+# Multi-Zone Event Parking System ERD
 
 This project contains the  Entity Relationship Diagram (ERD)  for a  Multi-Zone Event Parking System  designed for large convention venues such as  Comic-Con India.
 
@@ -22,7 +22,7 @@ This system supports:
 
 This project focuses on **database design and ER modeling only**.
 
-# -Real-Life Scenario
+# Real-Life Scenario
 
 Imagine a large event venue hosting **Comic-Con India**.
 
@@ -124,7 +124,7 @@ This ERD includes the following main entities:
     ### Payment
     Stores payment information for each parking session.
 
----
+
 
 ##  Key Relationships
 
@@ -139,7 +139,7 @@ Some important relationships in this design:
 - One session generates one ticket
 - One session has payment details
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Eraser** for ER Diagram
 - Database design concepts
